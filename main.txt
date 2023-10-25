@@ -12,7 +12,3 @@ acontendo um conflito.
 rs
 
 Essa é uma linha nova
-
-afsgs
-jdks
-conflitao
