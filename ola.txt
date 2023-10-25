@@ -1,2 +1,2 @@
 olá, mundo
-conflito será resolvido com essa linha
+conflito
