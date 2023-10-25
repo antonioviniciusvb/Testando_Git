@@ -10,3 +10,5 @@ outro projeto
 acontendo um conflito.
 
 rs
+
+Essa é uma linha nova
