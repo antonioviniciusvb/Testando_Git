@@ -1,4 +1,4 @@
-using System;
+using S
 using System.Text;
 
 olá mundo!
@@ -11,4 +11,4 @@ acontendo um conflito.
 
 rs
 
-Essa é uma linha nova
+aqui é 1 conflito 
